@@ -9,7 +9,7 @@ return array(
 										'port' => '',
 										'user' => '',
 										'password' => '',
-										'dbname' => 'cursozf2',
+										'dbname' => '',
 								),
 						),
 				),
